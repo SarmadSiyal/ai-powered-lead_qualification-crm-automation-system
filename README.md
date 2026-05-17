@@ -137,7 +137,7 @@ ai-powered-crm-automation-system/
 │   └── admin-form.png
 │
 ├── documentation/
-│   └── project-documentation.docx
+│   └── Documentation.pdf
 │
 ├── README.md
 │
@@ -549,7 +549,7 @@ Activate all workflows in n8n.
 Full project documentation is available in:
 
 ```text
-/documentation/project-documentation.docx
+/documentation/Documentation.pdf
 ```
 
 ---
@@ -580,5 +580,3 @@ before running the workflows.
 # License
 
 This project is for educational and portfolio purposes.
-
-```
