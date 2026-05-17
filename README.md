@@ -426,8 +426,6 @@ Features:
 
 # 📸 Screenshots
 
-# Screenshots
-
 ## AI Lead Capture Workflow
 
 ![Workflow 1](assets/workflow-1-ai-lead-capture.png)
