@@ -464,7 +464,7 @@ Features:
 
 ## Lead Capture Form
 
-![Lead Form](assets/lead-from.png)
+![Lead Form](assets/lead-form.png)
 
 ---
 
