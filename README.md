@@ -29,21 +29,6 @@ The project was designed using production-level automation architecture and scal
 
 ---
 
-# 🧠 AI Features
-
-The AI system automatically analyzes each lead and generates:
-
-| Feature | Description |
-|---|---|
-| AI Summary | Short lead overview |
-| Lead Category | Detects service category |
-| Lead Intent | High / Medium / Low |
-| Lead Score | Numerical lead score |
-| Lead Quality | Hot / Warm / Cold |
-| Confidence Score | AI confidence percentage |
-
----
-
 # ⚙️ Tech Stack
 
 | Technology | Purpose |
@@ -102,18 +87,18 @@ The AI system automatically analyzes each lead and generates:
 
 ---
 
-# AI Features
+# 🧠 AI Features
 
-The system uses Groq AI to process incoming leads and generate:
+The AI system automatically analyzes each lead and generates:
 
-| AI Feature | Purpose |
+| Feature | Description |
 |---|---|
-| AI Summary | Summarizes client requirements |
-| Lead Category | Detects business category |
-| Lead Intent | Detects buying intent |
-| Lead Quality | Classifies lead as Hot/Warm/Cold |
-| AI Lead Score | Scores lead quality |
-| AI Confidence Score | AI confidence level |
+| AI Summary | Short lead overview |
+| Lead Category | Detects service category |
+| Lead Intent | High / Medium / Low |
+| Lead Score | Numerical lead score |
+| Lead Quality | Hot / Warm / Cold |
+| Confidence Score | AI confidence percentage |
 
 ---
 
